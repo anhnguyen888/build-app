@@ -1,3 +1,4 @@
 streamlit
 langchain
 pydantic
+langchain_openai
